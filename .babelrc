@@ -1,0 +1,5 @@
+{
+    "presets": [
+        "@babel/preset-env" // 设置babel的预设 设置预解析
+    ]
+}
